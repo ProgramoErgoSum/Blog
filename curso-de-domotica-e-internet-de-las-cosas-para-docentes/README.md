@@ -22,7 +22,7 @@ Profesorado no universitario de la Consejería de Educación, Juventud y Deporte
 
 - Introducción a la programación textual con "Python".
 - Programación de videojuegos en "Python".
-- Programación y electrónica con "Raspberry Pi.
+- Programación y electrónica con "Raspberry Pi".
 
 ## Edición anterior
 
