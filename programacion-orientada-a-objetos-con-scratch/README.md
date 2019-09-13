@@ -31,43 +31,31 @@ La aplicación de los lenguajes de programación por bloques permiten una presen
 
 El lenguaje de programación por bloques de Scratch es muy sencillo e intuitivo y simplemente debemos formar un "puzle" para programar determinadas acciones.
 
-![](img/poo.png)
+![](img/poo.jpg)
 
-### Objetos
+## Objetos
 
 Con este paradigma de programación, los objetos manipulan los datos y cada objeto ofrece una funcionalidad especial. En este caso el mismo objeto toma diferentes posiciones, diseños, velocidades, etc.
 
-![](img/poo-objetos.png)
+![](img/poo-objetos.jpg)
 
-### Programación Concurrente
+## Concurrencia
 
 Mediante la programación concurrente simulamos varios procesos que se ejecutan de forma paralela. En este ejemplo, tanto los vehículos como los troncos se lanzan al mismo tiempo.
 
-![](img/poo-concurrencia.png)
+![](img/poo-concurrencia.jpg)
 
-### Abstracción de datos
+## Abstracción
 
 Una parte importante de la metodología de la programación es la reutilización de código. En este caso la misma función se encarga de realizar la misma funcionalidad según los datos que se le pasan por parámetro.
 
-![](img/poo-abstraccion.png)
+![](img/poo-abstraccion.jpg)
 
-### Liberación de memoria
+## Clones
 
 Con esta técnica nuestros procesos se realizan más rápido aprovechando al máximo los recursos utilizados por el juego. En este caso eliminamos los vehículos una vez llegan al final.
 
-![](img/poo-clones.png)
-
-
-
-<br />
-
-
-
-## Buenas prácticas
-
-Con las anteriores imágenes pretendemos hacer ver que la programación con Scratch puede ser un juego de niños, si, pero también es una herramienta muy poderosa para iniciarse en la programación, ya que se adquieren conceptos importantes de una forma muy sencilla.
-
-La programación es una ciencia que se encarga de diseñar, codificar, depurar y mantener el código de los programas. No basta con programar, hay que hacerlo bien
+![](img/poo-clones.jpg)
 
 
 
@@ -76,6 +64,10 @@ La programación es una ciencia que se encarga de diseñar, codificar, depurar y
 
 
 ## Aprende a programar con Scratch
+
+Con las anteriores imágenes pretendemos hacer ver que la programación con Scratch puede ser un juego de niños, si, pero también es una herramienta muy poderosa para iniciarse en la programación, ya que se adquieren conceptos importantes de una forma muy sencilla.
+
+La programación es una ciencia que se encarga de diseñar, codificar, depurar y mantener el código de los programas. No basta con programar, hay que hacerlo bien
 
 Si eres de los que se interesa por la programación informática, y todavía no sabes por qué lenguaje empezar, te recomendamos Scratch para iniciarte en la programación de videojuegos, historias de animación, aplicaciones, etc., ya que con esta herramientas el aprendizaje es mucho más sencillo y divertido.
 
