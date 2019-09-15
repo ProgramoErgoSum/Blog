@@ -39,7 +39,7 @@ Como puedes observar, aparecen 5 coches moviéndose desde un lateral hacia el op
 
 La programación del personaje principal es muy sencilla mientras que la programación de los objetos "coche" o "tronco" es idéntica como se muestra en la siguiente imagen.
 
-![](img/poo.jpg "Bloues de programación con Scratch")
+![](img/poo.jpg "Bloques de programación con Scratch")
 
 ## Objetos
 
