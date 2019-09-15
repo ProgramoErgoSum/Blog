@@ -71,7 +71,7 @@ Con esta técnica nuestros procesos se realizan más rápido aprovechando al má
 
 
 
-## Aprende a programar con Scratch
+## Conclusión
 
 Con las anteriores imágenes pretendemos hacer ver que la programación con Scratch puede ser un juego de niños, si, pero también es una herramienta muy poderosa para iniciarse en la programación, ya que se adquieren conceptos importantes de una forma muy sencilla.
 
