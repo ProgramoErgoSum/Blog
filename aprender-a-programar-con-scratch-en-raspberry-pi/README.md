@@ -1,14 +1,28 @@
-## Aprender a programar con Scratch en Raspberry Pi
+## Scratch en Raspberry Pi
 
 Como se explica en nuestros <a target="_blank" href="https://www.programoergosum.com/cursos-online/scratch">tutoriales de programación</a>, Scratch es un lenguaje de programación por bloques distinado a la enseñanza de la programación desde edades tempranas. La aplicación de los lenguajes de programación por bloques permiten una presentación visual del paradigma y metodología de la programación informática permitiendo centrarse en la lógica de la programación dejando a un lado la sintaxis propia de los lenguajes de programación (puntos y comas, paréntesis, etc)
 
 ![](img/1.jpg "Scratch en Raspbian")
 
+
+
 <br />
 
 
 
-## Scratch 2.0 en Raspbian SO
+## ¿Qué es Raspbian?
+
+Raspbian es el sistema operativo recomendado por la fundación para Raspberry Pi (al estar optimizado para su hardware) y se basa en una distribución de GNU/Linux llamada Debian. Para instalar Raspbian en nuestra Raspberry Pi disponemos de dos versiones; una más completa con entorno gráfico y otra más reducida sin entorno gráfico.
+
+> Para más información puedes acceder a nuestros <a target="_blank" href="https://www.programoergosum.com/cursos-online/raspberry-pi">tutoriales</a> de raspberry Pi con Raspbian.
+
+
+
+<br />
+
+
+
+## Scratch 2.0 en Raspbian
 
 La versión 2.0 lleva algunos años disponible aunque Raspbian seguía incluyendo la versión anterior 1.4 hasta la llegada de la versión 3.0 de Scratch. El problema es que la versión 2.0 utilizaba Flash con la intención de ejecutarse en un navegador, lo que dejaba fuera a la Raspberry Pi al no tener un intérprete de Flash. Raspbian incorpora un plugin de Flash para que sea posible ejecutar Flash en el navegador aunque la versión disponible de Scratch no tiene conexión a internet y se ejecuta en modo offline.
 
@@ -24,7 +38,7 @@ La mayor ventaja de programar con Scratch en Raspberry Pi es la posibilidad de u
 
 
 
-## Scratch 3.0 en Raspbian SO
+## Scratch 3.0 en Raspbian
 
 Scratch 3 ha lanzado su versión de escritorio para Raspbian en Raspberry Pi y este puede ser el empujón que te falta para empezar a programar.
 
@@ -32,9 +46,13 @@ Entre las mejoras de Scratch 3.0 sobre sus anteriores versiones hay que destacar
 
 ![](img/3.jpg "Scratch 3.0 en Raspbian")
 
-Para instalar esta versión de Scratch solo tenemos que actualizar los repositorios de Raspbian e instalar el paquete de Scratch. Todo lo podemos hacer con la siguiente línea en la terminal:
 
-### Instalación en Raspbian
+
+<br />
+
+
+
+## Instalar Scratch 3.0 en Raspbian
 
 Para instalar esta versión de Scratch solo tenemos que actualizar los repositorios de Raspbian e instalar el paquete de Scratch. Para ello podemos acceder a través de programas recomendados de Raspbian para instalarlo.
 
