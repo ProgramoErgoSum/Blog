@@ -68,3 +68,5 @@ pi@raspberrypi: ~ $ sudo apt install scratch3
 Una vez instalado ya podemos empezar a programar con Scratch 3.0 sobre Raspberry Pi y utilizar los pines GPIO para conectar el mundo digital con el mundo físico.
 
 ![](img/5.jpg "Pines GPIO con Scratch 3.0")
+
+> Accede a nuestro <a target="_blank" href="https://www.programoergosum.com/cursos-online/raspberry-pi/242-control-de-gpio-con-scratch-en-raspberry-pi/introduccion">tutorial</a> donde aprenderás a programar con Scratch utilizando los pines GPIO de tu raspberry Pi.
