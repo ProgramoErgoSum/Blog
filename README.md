@@ -1,6 +1,18 @@
 # Blog de Programo Ergo Sum
 
-> Repositorio público donde se almacenan todos los artículos del blog del proyecto educativo de código abierto [Programo Ergo Sum][PES-BLOG].
+Repositorio público donde se almacenan todos los artículos del blog del proyecto educativo de código abierto [Programo Ergo Sum][PES-ES].
+
+> Puedes ver el blog [aquí](https://www.programoergosum.es).
+
+[![](https://www.paypalobjects.com/es_ES/ES/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7N56RY2QKJJDS&source=url)
+
+<hr />
+
+
+
+<br />
+
+
 
 ### Licencia
 
@@ -18,4 +30,4 @@ Bajo las siguientes condiciones:
 
 
 [CC-BY-SA]: https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES
-[PES-BLOG]: https://www.programoergosum.es/blog/
+[PES-ES]: https://www.programoergosum.es/
