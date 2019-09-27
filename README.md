@@ -1,33 +1,26 @@
-# Blog de Programo Ergo Sum
+<div align="center">
+  <img align="center" src="logo-programo-ergo-sum.png"/>
+  
+  <br /><br />
+  
+  <a target="_blank" href="https://www.programoergosum.es/colabora">
+    <img src="https://badgen.net/badge/collaborators/♥/orange">
+  </a>
+  <a target="_blank" href="https://www.paypal.me/programoergosum">
+    <img src="https://badgen.net/badge/donations/paypal%20me/orange">
+  </a>
+  <a target="_blank" href="https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES">
+    <img src="https://badgen.net/badge/license/ccbysa%204.0/orange">
+  </a>
+</div>
 
-Repositorio público donde se almacenan todos los artículos del blog del proyecto educativo de código abierto [Programo Ergo Sum][PES-ES].
+<br /><hr /><br />
 
-> Puedes ver el blog [aquí](https://www.programoergosum.es).
-
-[![](https://www.paypalobjects.com/es_ES/ES/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7N56RY2QKJJDS&source=url)
-
-<hr />
-
-
-
-<br />
-
-
-
-### Licencia
-
-Esta obra está bajo una licencia de [Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional][CC-BY-SA].
-
-Usted es libre de:
-
-* **Compartir**: Compartir y redistribuir el material en cualquier medio o formato.
-* **Adaptar**: Remezclar, transformar y crear a partir del material para cualquier finalidad, incluso comercial.
-
-Bajo las siguientes condiciones:
-
-* **Reconocimiento**: Debe reconocer adecuadamente la autoría, proporcionar un enlace a la licencia e indicar si se han realizado cambios. Puede hacerlo de cualquier manera razonable, pero no de una manera que sugiera que tiene el apoyo del licenciador o lo recibe por el uso que hace.
-* **CompartirIgual**: Si remezcla, transforma o crea a partir del material, deberá difundir sus contribuciones bajo la misma licencia que el original.
-
-
-[CC-BY-SA]: https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES
-[PES-ES]: https://www.programoergosum.es/
+<div align="center">
+  <h3>
+    Para que este proyecto educativo siga siendo libre y gratuito, realiza una donación totalmente desinteresada y estarás colaborando.
+  </h3>
+  <a target="_blank" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7N56RY2QKJJDS&source=url">
+    <img width="200" src="https://www.paypalobjects.com/es_ES/ES/i/btn/btn_donateCC_LG.gif" />
+  </a>
+</div>
