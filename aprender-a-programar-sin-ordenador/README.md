@@ -73,13 +73,18 @@ Al principio solo hay 3 instrucciones, avanzar, girar a la derecha y girar a la 
 
 ## El laberinto del robot
 
-Una actividad que surgió como implementación a una actividad realizada por <a target="_blank" href="https://twitter.com/Gorkaprofe/status/1079352225430978562">Gorka</a>, es la actividad de *El laberinto del robot*.
+Una actividad que surgió como implementación a una actividad realizada por Gorka, es la actividad de *El laberinto del robot*.
 
-<blockquote class="twitter-tweet" data-lang="es"><p lang="es" dir="ltr">👋 ¡Hola!<br>Estoy buscando nombre para un juego para aprender a programar sin ordenador ... ¿Alguna idea? <a href="https://t.co/ZEO8XcUebe">https://t.co/ZEO8XcUebe</a> 👇 <a href="https://t.co/dCVLkucfmT">pic.twitter.com/dCVLkucfmT</a></p>&mdash; Migue (@migueabellan) <a href="https://twitter.com/migueabellan/status/1084519211404279809?ref_src=twsrc%5Etfw">13 de enero de 2019</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<br />
+![](img/laberinto.jpg "Laberinto por Gorka y Migue")
 
 En este juego cada jugador tendrá que atravesar el tablero evitando los obstáculos ocultos. Para ello deberás guiar a tu robot utilizando solamente 3 movimientos adelante, gira a la derecha y gira a la izquierda. Cada vez que te encuentres con un obstáculo será el turno de tu contrincante. El primero que logre atravesar el tablero gana la partida.
 
-![](img/laberinto.jpg "Laberinto por Gorka y Migue")
+### Idea Original de Gorka
+
+<blockquote class="twitter-tweet" data-lang="es"><p lang="es" dir="ltr">Otro ejemplo más desarrollando Pensamiento Computacional con actividades de <a href="https://twitter.com/hashtag/programaci%C3%B3n?src=hash&amp;ref_src=twsrc%5Etfw">#programación</a> unplugged, sin ordenador. <a href="https://twitter.com/hashtag/Rob%C3%B3ticaPorLaIgualdad?src=hash&amp;ref_src=twsrc%5Etfw">#RobóticaPorLaIgualdad</a> <a href="https://twitter.com/hashtag/Educaci%C3%B3n?src=hash&amp;ref_src=twsrc%5Etfw">#Educación</a> <a href="https://t.co/q5hqH33nuG">pic.twitter.com/q5hqH33nuG</a></p>&mdash; Gorka García (@Gorkaprofe) <a href="https://twitter.com/Gorkaprofe/status/1079352225430978562?ref_src=twsrc%5Etfw">30 de diciembre de 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### Adaptación por Migue
+
+<blockquote class="twitter-tweet" data-lang="es"><p lang="es" dir="ltr">👋 ¡Hola!<br>Estoy buscando nombre para un juego para aprender a programar sin ordenador ... ¿Alguna idea? <a href="https://t.co/ZEO8XcUebe">https://t.co/ZEO8XcUebe</a> 👇 <a href="https://t.co/dCVLkucfmT">pic.twitter.com/dCVLkucfmT</a></p>&mdash; Migue (@migueabellan) <a href="https://twitter.com/migueabellan/status/1084519211404279809?ref_src=twsrc%5Etfw">13 de enero de 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
