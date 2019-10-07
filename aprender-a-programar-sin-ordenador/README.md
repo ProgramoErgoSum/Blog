@@ -2,9 +2,11 @@
 
 Actualmente podemos encontrar numerosas actividades para desarrollar el pensamiento computacional sin utilizar un ordenador. Actividades que no dependen del uso de ordenadores y así poder evitar la confusión entre la informática y la programación o el aprendizaje de programas de aplicaciones.
 
-![](img/vasos.jpg "Mis amigos robots")
-
 Estas actividades de programación desconectada tienden a permitir que los alumnos descubran las respuestas por sí mismos, en lugar de darles soluciones o algoritmos que seguir, es decir, se fomenta un enfoque constructivista ya que queremos que los alumnos se den cuenta de que son capaces de encontrar soluciones a los problemas por su cuenta, en vez de darles una solución al problema.
+
+<div class="iframe">
+  <iframe src="//www.youtube.com/embed/l7FwWt16IY4" allowfullscreen></iframe>
+</div>
 
 Estas actividades son ideales para ir adquiriendo ciertas destrezas en el mundo de la programación informática, además son de bajo costo al usar material comúnmente encontrado en las aulas.
 
@@ -44,10 +46,6 @@ La actividad que se suele proponer es en grupos de cuatro personas, donde una pa
 
 ![](img/vasos-robots.jpg "Equipo robots")
 
-<div class="iframe">
-  <iframe src="//www.youtube.com/embed/l7FwWt16IY4" allowfullscreen></iframe>
-</div>
-
 
 
 <br />
@@ -77,8 +75,11 @@ Al principio solo hay 3 instrucciones, avanzar, girar a la derecha y girar a la 
 
 Una actividad que surgió como implementación a una actividad realizada por <a target="_blank" href="https://twitter.com/Gorkaprofe/status/1079352225430978562">Gorka</a>, es la actividad de *El laberinto del robot*.
 
+<div style="align-center">
 <blockquote class="twitter-tweet" data-lang="es"><p lang="es" dir="ltr">👋 ¡Hola!<br>Estoy buscando nombre para un juego para aprender a programar sin ordenador ... ¿Alguna idea? <a href="https://t.co/ZEO8XcUebe">https://t.co/ZEO8XcUebe</a> 👇 <a href="https://t.co/dCVLkucfmT">pic.twitter.com/dCVLkucfmT</a></p>&mdash; Migue (@migueabellan) <a href="https://twitter.com/migueabellan/status/1084519211404279809?ref_src=twsrc%5Etfw">13 de enero de 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<br />
+</div>
 
 En este juego cada jugador tendrá que atravesar el tablero evitando los obstáculos ocultos. Para ello deberás guiar a tu robot utilizando solamente 3 movimientos adelante, gira a la derecha y gira a la izquierda. Cada vez que te encuentres con un obstáculo será el turno de tu contrincante. El primero que logre atravesar el tablero gana la partida.
 
