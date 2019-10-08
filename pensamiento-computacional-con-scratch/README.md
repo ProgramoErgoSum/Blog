@@ -25,9 +25,9 @@ Una característica importante del llamado pensamiento computacional es que se p
 
 Scratch es un lenguaje de programación visual (o por bloques) orientado a la enseñanza, diseñado con el objetivo de que sus usuarios puedan tener una primera experiencia programando en un entorno sencillo e intuitivo.
 
-En el ámbito docente se ha convertido en una importante herramienta para ayudar a los estudiantes en el desarrollo de habilidades mentales mediante el aprendizaje básico de la programación. Sus características ligadas al pensamiento computacional han hecho que sea muy difundido actualmente en las etapas de educación.
-
 ![](img/scratch.jpg "Scratch 3.0")
+
+En el ámbito docente se ha convertido en una importante herramienta para ayudar a los estudiantes en el desarrollo de habilidades mentales mediante el aprendizaje básico de la programación. Sus características ligadas al pensamiento computacional han hecho que sea muy difundido actualmente en las etapas de educación.
 
 > Accede a nuestros <a href="https://www.programoergosum.com/cursos-online/scratch/" target="_blank">tutoriales</a> de programación de videojuegos con Scratch.
 
@@ -43,7 +43,9 @@ Alumnos de ciclos formativos o de carreras de ingeniería suelen comenzar sin te
 
 ## Ejemplos prácticos
 
-En la mayoría de los talleres que realizamos proponemos a los asistentes que realicen una receta siguiendo unos pasos o instrucciones. Esto sería un ejemplo de aplicar el pensamiento computacional. Por ejemplo, supongamos que queremos realizar un Risotto utilizando un sobre de comida preparada (para que sea más rápido). En este caso los pasos serían los siguientes:
+En los <a href="https://www.programoergosum.es/formaciones/">cursos de formación para docentes</a> que realizamos proponemos a los asistentes que realicen una receta siguiendo una serie de pasos o instrucciones. Esto sería un ejemplo de aplicar el pensamiento computacional.
+
+Por ejemplo, supongamos que queremos realizar un Risotto utilizando un sobre de comida preparada (para que sea más rápido). En este caso los pasos serían los siguientes:
 
 - Abrir el sobre
 - Poner a calentar el agua
@@ -81,3 +83,4 @@ En el siguiente video se cuenta con la colaboración de Champions y mentores de 
 
 - <a target="_blank" href="https://www.um.es/ead/red/46/valverde_et_al.pdf">El pensamiento computacional y las nuevas ecologías del aprendizaje</a>
 - <a target="_blank" href="https://classic.csunplugged.org/books/">Libro de actividades de programación sin ordenador</a>
+- <a target="_blank" href="https://www.programoergosum.com/cursos-online/scratch/" title="Tutoriales de programación de videojuegos con Scratch">Tutoriales de programación de videojuegos con Scratch</a>
