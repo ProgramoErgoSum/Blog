@@ -1,4 +1,4 @@
-## Pensamiento computacional
+## ¿Qué es el pensamiento computacional?
 
 El pensamiento computacional se define como el proceso por el cual nos enfrentamos a un problema aplicando habilidades propias de la computación y del pensamiento crítico. Dicho de otra forma, el pensamiento computacional implica resolver problemas cotidianos haciendo uso de los conceptos fundamentales de la programación informática para resolver problemas cuyas soluciones pueden ser representadas mediante una serie de pasos o instrucciones.
 
