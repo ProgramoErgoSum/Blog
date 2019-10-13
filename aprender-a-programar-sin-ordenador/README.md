@@ -71,6 +71,7 @@ Al principio solo hay 3 instrucciones, avanzar, girar a la derecha y girar a la 
 <br />
 
 
+
 ## El laberinto del robot
 
 > Esta actividad es una adaptación de un juego utilizado por <a target="_blank" href="https://twitter.com/Gorkaprofe/status/1079352225430978562">@GorkaProfe</a> en el aula con sus alumnos de 5ª de primaria.
@@ -80,3 +81,21 @@ En este juego cada jugador tendrá que atravesar el tablero evitando los obstác
 El primero que logre atravesar el tablero gana la partida.
 
 ![](img/laberinto.jpg "El laberinto del robot")
+
+
+
+<br />
+
+
+
+## Aprendo a programar
+
+Con este juego se pueden aprender las bases y la lógica de la programación utilizando sencillas fichas que puedes crearte utilizando cartulina o una impresora 3D.
+
+En este juego deberás guiar al robot hasta la meta escogiendo el mejor camino de los posibles. Para ello contarás con una serie de fichas (avanzar, retroceder, girar a la izquierda y derecha, bucles y ficha de inicio).
+
+El juego se puede jugar en parejas, donde uno crea el recorrido sobre una hoja cuadriculada y el oponente resulve el camino utilizando los bloques de programación. 
+
+![](img/aprendo.jpg "Aprendo a programar")
+
+> Puedes <a target="_blank" href="https://www.thingiverse.com/thing:3911302">descargar</a> los bloques desde la web de Thingiverse.
