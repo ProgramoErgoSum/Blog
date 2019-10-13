@@ -73,8 +73,10 @@ Al principio solo hay 3 instrucciones, avanzar, girar a la derecha y girar a la 
 
 ## El laberinto del robot
 
-Una actividad que surgió como implementación a una actividad realizada por Gorka, es la actividad de *El laberinto del robot*.
+> Esta actividad es una adaptación de un juego utilizado por <a target="_blank" href="https://twitter.com/Gorkaprofe/status/1079352225430978562">@GorkaProfe</a> en el aula con sus alumnos de 5ª de primaria.
 
-En este juego cada jugador tendrá que atravesar el tablero evitando los obstáculos ocultos. Para ello deberás guiar a tu robot utilizando solamente 3 movimientos adelante, gira a la derecha y gira a la izquierda. Cada vez que te encuentres con un obstáculo será el turno de tu contrincante. El primero que logre atravesar el tablero gana la partida.
+En este juego cada jugador tendrá que atravesar el tablero evitando los obstáculos ocultos. Para ello deberá guiar a su robot utilizando solamente 3 movimientos adelante (avanzar, giro a la derecha y giro a la izquierda). Cada vez que el robot se encuentre con un obstáculo será el turno del contrincante. 
 
-![](img/laberinto.jpg "Laberinto por Gorka y Migue")
+El primero que logre atravesar el tablero gana la partida.
+
+![](img/laberinto.jpg "El laberinto del robot")
