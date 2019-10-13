@@ -47,6 +47,8 @@ Este robot creado por la empresa Edelvives también suele ser muy utilizado en l
 | --- | --- | --- | --- | 
 | 40 | 15cm | 90º | Recargable USB |
 
+![](img/next.jpg "Robot Next")
+
 
 
 <br />
