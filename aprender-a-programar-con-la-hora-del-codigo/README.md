@@ -1,6 +1,6 @@
 ## La Hora del Código
 
-La Hora del Código es una iniciativa realizada a nivel a mediados de diciembre cuyo objetivo consiste en adentrar a la ciudadanía en general en las ciencias de la computación. Millones de docentes y estudiantes participantes han decidido ir más allá y muchos han decidido inscribirse en un curso entero como resultado de sta iniciativa.
+La Hora del Código es una iniciativa realizada a nivel mundial a mediados de diciembre cuyo objetivo consiste en introducir a la ciudadanía en las ciencias de la computación. Millones de docentes y estudiantes participantes han decidido ir más allá y muchos han decidido inscribirse en un curso entero como resultado de sta iniciativa.
 
 ![](img/codeorg.jpg "La Hora del Código")
 
@@ -60,5 +60,8 @@ Para crear una cuenta como educador o profesor, seguiremos los siguiente pasos:
 
 1. Accede a la web de code.org y proceder al registro como profesor.
 2. Registra una nueva sección o clase.
-3. Registra a los alumnos. El registro de los alumnos en Code.org puede hacerse de un total de tres maneras; Por imagen: el profesor elige los nombres de usuario y el sistema asigna una imagen de entre un catálogo reducido para acceder a la plataforma. Por palabra: similar al de la imagen, pero con una palabra como contraseña en vez de un dibujo o imagen. Por correo electrónico: los alumnos tendrán que registrarse con su propio correo electrónico, y luego el profesor dará acceso a las respectivas cuentas registradas con determinadas direcciones.
+3. Registra a los alumnos. El registro de los alumnos en Code.org puede hacerse de un total de tres maneras:
+   - Por imagen: el profesor elige los nombres de usuario y el sistema asigna una imagen de entre un catálogo reducido para acceder a la plataforma.
+   - Por palabra: similar al de la imagen, pero con una palabra como contraseña en vez de un dibujo o imagen.
+   - Por correo electrónico: los alumnos tendrán que registrarse con su propio correo electrónico, y luego el profesor dará acceso a las respectivas cuentas registradas con determinadas direcciones.
 4. Imprime las tarjetas de los alumnos y entrégalas para que accedan siguiendo los pasos indicados en las mismas.
