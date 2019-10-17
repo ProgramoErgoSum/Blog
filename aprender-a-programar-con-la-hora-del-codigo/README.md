@@ -18,7 +18,7 @@ Millones de docentes y estudiantes participantes han decidido ir más allá y mu
 
 Code.org es una organización sin fines de lucro, fundada por los hermanos Hadi y Ali Partovi, que tiene como objetivo incentivar a la gente, en especial a los estudiantes de colegios a aprender sobre las Ciencias Computacionales. Esta organización se encarga de dar lecciones gratis de programación, a través de su sitio web.
 
-![](img/code.org.jpg "Code.org")
+![](img/codeorg.jpg "Code.org")
 
 Esta herramienta es la preferida por muchos de los docentes interesados en introducir la programación en el aula ya que gracias a su asistente interactivo proporciona a los alumnos un aprendizaje guiado y cada uno puede programar a su ritmo. Además, el profesor puede desempeñar el rol de mentor para guiar a sus alumnos en los pasos de la programación. Es interesante crear una cuenta como profesor y administrar el aula con los alumnos, así puedes ver en tiempo real el progreso de los mismos y ver los ejercicios realizados, los ejercicios en los cuales tienen dudas, etc.
 
