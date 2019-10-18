@@ -21,7 +21,7 @@ En este post vamos a realizar una comparativa sobre los principales robots educa
 
 ## Robot Beebot
 
-BeeBot es un pequeño robot educativo con forma de abeja diseñado para desarrollar las capacidades elementales de la programación y sus aplicaciones de la robótica educativa, como la ubicación espacial, motricidad, lógica, estrategia, etc.
+El robot BeeBot es un pequeño robot educativo con forma de abeja diseñado para desarrollar las capacidades elementales de la programación y sus aplicaciones de la robótica educativa, como la ubicación espacial, motricidad, lógica, estrategia, etc.
 
 Este robot se programa una y otra vez para conseguir una secuencia de instrucciones a través de una botonera que tiene en la parte superior de la carcasa. Se aceptan hasta un máximo de 40 instrucciones (adelante, atrás, girar a la izquierda y girar a la derecha) y funciona con batería recargable mediante USB.
 
@@ -82,13 +82,3 @@ El robot Escornabot es un proyecto de robot educativo que nace en la Asociación
 | Programable | Programable | Programable | Pilas / Batería |
 
 ![](img/escornabot.jpg "Robot Escornabot")
-
-
-
-<br />
-
-
-
-## Conclusiones
-
-Aunque se puede ver que todos los robots son muy similares, si tenemos que quedarnos con uno elegimos sin duda el robot Escornabot, por ser de filosofía libre y abierta.
