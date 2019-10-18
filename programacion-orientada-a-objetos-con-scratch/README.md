@@ -19,7 +19,7 @@ Scratch es un entorno gráfico de programación desarrollado por un grupo de inv
 
 La aplicación de los lenguajes de programación por bloques permiten una presentación visual del paradigma y metodología de la programación informática permitiendo centrarse en la lógica de la programación dejando a un lado la sintaxis propia de los lenguajes de programación (puntos y comas, paréntesis, etc).
 
-> En las siguientes secciones vamos a explicar el concepto de POO con Scratch sobre el tutorial del <a href="https://www.programoergosum.com/cursos-online/scratch/113-juego-de-la-rana-froggy-programado-con-scratch/introduccion" target="_blank">videojuego de Froggy</a> que puedes ver en nuestra plataforma educativa.
+> En las siguientes secciones vamos a explicar el concepto de POO con Scratch sobre el tutorial del [videojuego de Froggy](https://www.programoergosum.com/cursos-online/scratch/113-juego-de-la-rana-froggy-programado-con-scratch/introduccion) que puedes ver en nuestra plataforma educativa.
 
 
 
@@ -75,6 +75,6 @@ Con esta técnica nuestros procesos se realizan más rápido aprovechando al má
 
 Con las anteriores imágenes pretendemos hacer ver que la programación con Scratch puede ser un juego de niños, si, pero también es una herramienta muy poderosa para iniciarse en la programación, ya que se adquieren conceptos importantes de una forma muy sencilla.
 
-> Puedes acceder a todos los <a href="https://www.programoergosum.com/cursos-online/scratch" target="_blank">tutoriales de programación con scratch</a> que tenemos en nuestra plataforma de cursos. 
+> Puedes acceder a todos los [tutoriales de programación con scratch](https://www.programoergosum.com/cursos-online/scratch) que tenemos en nuestra plataforma de cursos. 
 
 Recuerda que la programación es una ciencia que se encarga de diseñar, codificar, depurar y mantener el código de los programas. No basta con programar, hay que hacerlo bien.

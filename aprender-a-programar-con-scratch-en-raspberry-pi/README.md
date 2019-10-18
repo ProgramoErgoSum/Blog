@@ -1,6 +1,6 @@
 ## Scratch en Raspberry Pi
 
-Como se explica en nuestros <a target="_blank" href="https://www.programoergosum.com/cursos-online/scratch">tutoriales de programación</a>, Scratch es un lenguaje de programación por bloques distinado a la enseñanza de la programación desde edades tempranas. La aplicación de los lenguajes de programación por bloques permiten una presentación visual del paradigma y metodología de la programación informática permitiendo centrarse en la lógica de la programación dejando a un lado la sintaxis propia de los lenguajes de programación (puntos y comas, paréntesis, etc)
+Como se explica en nuestros [tutoriales de programación](https://www.programoergosum.com/cursos-online/scratch), Scratch es un lenguaje de programación por bloques distinado a la enseñanza de la programación desde edades tempranas. La aplicación de los lenguajes de programación por bloques permiten una presentación visual del paradigma y metodología de la programación informática permitiendo centrarse en la lógica de la programación dejando a un lado la sintaxis propia de los lenguajes de programación (puntos y comas, paréntesis, etc)
 
 ![](img/1.jpg "Scratch en Raspbian")
 
@@ -14,7 +14,7 @@ Como se explica en nuestros <a target="_blank" href="https://www.programoergosum
 
 Raspbian es el sistema operativo recomendado por la fundación para Raspberry Pi (al estar optimizado para su hardware) y se basa en una distribución de GNU/Linux llamada Debian. Para instalar Raspbian en nuestra Raspberry Pi disponemos de dos versiones; una más completa con entorno gráfico y otra más reducida sin entorno gráfico.
 
-> Para más información puedes acceder a nuestros <a target="_blank" href="https://www.programoergosum.com/cursos-online/raspberry-pi">tutoriales</a> de raspberry Pi con Raspbian.
+> Para más información puedes acceder a nuestros [tutoriales](https://www.programoergosum.com/cursos-online/raspberry-pi) de raspberry Pi con Raspbian.
 
 
 
@@ -30,7 +30,7 @@ La mayor ventaja de programar con Scratch en Raspberry Pi es la posibilidad de u
 
 ![](img/2.jpg "Pines GPIO con Scratch 2.0")
 
-> Accede a nuestro <a target="_blank" href="https://www.programoergosum.com/cursos-online/raspberry-pi/242-control-de-gpio-con-scratch-en-raspberry-pi/introduccion">tutorial</a> donde aprenderás a programar con Scratch utilizando los pines GPIO de tu raspberry Pi.
+> Accede a nuestro [tutorial](https://www.programoergosum.com/cursos-online/raspberry-pi/242-control-de-gpio-con-scratch-en-raspberry-pi/introduccion) donde aprenderás a programar con Scratch utilizando los pines GPIO de tu raspberry Pi.
 
 
 
@@ -69,4 +69,4 @@ Una vez instalado ya podemos empezar a programar con Scratch 3.0 sobre Raspberry
 
 ![](img/5.jpg "Pines GPIO con Scratch 3.0")
 
-> Accede a nuestro <a target="_blank" href="https://www.programoergosum.com/cursos-online/raspberry-pi/242-control-de-gpio-con-scratch-en-raspberry-pi/introduccion">tutorial</a> donde aprenderás a programar con Scratch utilizando los pines GPIO de tu raspberry Pi.
+> Accede a nuestro [tutorial](https://www.programoergosum.com/cursos-online/raspberry-pi/242-control-de-gpio-con-scratch-en-raspberry-pi/introduccion) donde aprenderás a programar con Scratch utilizando los pines GPIO de tu raspberry Pi.

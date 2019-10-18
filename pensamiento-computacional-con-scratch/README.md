@@ -29,9 +29,9 @@ Scratch es un lenguaje de programación visual (o por bloques) orientado a la en
 
 En el ámbito docente se ha convertido en una importante herramienta para ayudar a los estudiantes en el desarrollo de habilidades mentales mediante el aprendizaje básico de la programación. Sus características ligadas al pensamiento computacional han hecho que sea muy difundido actualmente en las etapas de educación.
 
-> Accede a nuestros <a href="https://www.programoergosum.com/cursos-online/scratch/" target="_blank">tutoriales</a> de programación de videojuegos con Scratch.
+> Accede a nuestros [tutoriales](https://www.programoergosum.com/cursos-online/scratch/) de programación de videojuegos con Scratch.
 
-Aunque puede resultar cosa de niños se puede profundizar en el llamado paradigma de la <a href="https://www.programoergosum.es/blog/programacion-orientada-a-objetos-con-scratch/">programación orientada a objetos con Scratch</a> de una forma sencilla a través de la programación de videojuegos o aplicaciones con esta herramienta.
+Aunque puede resultar cosa de niños se puede profundizar en el llamado paradigma de la [programación orientada a objetos con Scratch](https://www.programoergosum.es/blog/programacion-orientada-a-objetos-con-scratch/) de una forma sencilla a través de la programación de videojuegos o aplicaciones con esta herramienta.
 
 Alumnos de ciclos formativos o de carreras de ingeniería suelen comenzar sin tener conocimientos en programación y con Scratch se dispone de una curva de aprendizaje muy rápida.
 
@@ -43,7 +43,7 @@ Alumnos de ciclos formativos o de carreras de ingeniería suelen comenzar sin te
 
 ## Ejemplos prácticos
 
-En los <a href="https://www.programoergosum.es/formaciones/">cursos de formación para docentes</a> que realizamos proponemos a los asistentes que realicen una receta siguiendo una serie de pasos o instrucciones. Esto sería un ejemplo de aplicar el pensamiento computacional.
+En los [cursos de formación para docentes](https://www.programoergosum.es/formaciones/) que realizamos proponemos a los asistentes que realicen una receta siguiendo una serie de pasos o instrucciones. Esto sería un ejemplo de aplicar el pensamiento computacional.
 
 Por ejemplo, supongamos que queremos realizar un Risotto utilizando un sobre de comida preparada (para que sea más rápido). En este caso los pasos serían los siguientes:
 
@@ -67,20 +67,9 @@ Si el anterior algoritmo lo representamos utilizando un lenguaje de programació
 
 ## Mesa redonda virtual: CoderDojo
 
-En el siguiente video se cuenta con la colaboración de Champions y mentores de <a target="_blank" href="https://ww.coderdojo.es">CoderDojo España</a> a través de una mesa redonda virtual del curso tutorizado en línea "Pensamiento computacional en el aula" de INTEF.
+En el siguiente video se cuenta con la colaboración de Champions y mentores de [CoderDojo España](https://ww.coderdojo.es) a través de una mesa redonda virtual del curso tutorizado en línea "Pensamiento computacional en el aula" de INTEF.
 
 <div class="iframe">
   <iframe src="//www.youtube.com/embed/Nu6NfwLBB0Y" allowfullscreen></iframe>
 </div>
 
-
-
-<br />
-
-
-
-## Enlaces de interés
-
-- <a target="_blank" href="https://www.um.es/ead/red/46/valverde_et_al.pdf">El pensamiento computacional y las nuevas ecologías del aprendizaje</a>
-- <a target="_blank" href="https://classic.csunplugged.org/books/">Libro de actividades de programación sin ordenador</a>
-- <a target="_blank" href="https://www.programoergosum.com/cursos-online/scratch/" title="Tutoriales de programación de videojuegos con Scratch">Tutoriales de programación de videojuegos con Scratch</a>
