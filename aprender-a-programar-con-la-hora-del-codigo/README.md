@@ -2,29 +2,13 @@
 
 El proyecto [La Hora del Código](https://hourofcode.com/es) es una iniciativa realizada a nivel mundial a mediados de diciembre cuyo objetivo consiste en introducir a la ciudadanía en las ciencias de la computación. Millones de docentes y estudiantes participantes han decidido ir más allá y muchos han decidido inscribirse en un curso entero como resultado de sta iniciativa.
 
-![](img/codeorg.jpg "La Hora del Código")
-
-Cualquiera puede organizar una *Hora del Código* en cualquier momento, pero el objetivo fundamental del proyecto es celebrar el evento durante Semana Europea de la programación, [CodeWeek](https://codeweek.eu/).
-
-La Hora del Código está organizada por Code.org, una organización pública sin fines de lucro destinada a promover la participación en escuelas e institutos con una especial atención en incrementar el número de mujeres y estudiantes de colectivos minoritarios que aprenden a programar.
-
-
-
-<br />
-
-
-
-## Actividades
-
 Dentro de *La Hora del Código* podemos acceder al apartado de [actividades](https://hourofcode.com/es/learn) donde encontraremos una gran cantidad de proyectos educativos destinados a la enseñanza de la programación en las escuelas e institutos.
 
 ![](img/actividades.jpg "Actividades en La Hora del Código")
 
-Todas las actividades de la Hora del Código requieren de un tiempo de preparación mínimo al ser autoguiados, lo que permite a los participantes trabajar a su propio ritmo y nivel.
+Todas las actividades de la Hora del Código requieren de un tiempo de preparación mínimo al ser autoguiados, lo que permite a los participantes trabajar a su propio ritmo y nivel. La mejor experiencia de Hora de Código requiere de ordenadores conectados a Internet, aunque no se necesita un ordenador para cada niño, incluso algunas actividades se realizan sin ordenador.
 
-La mejor experiencia de Hora de Código requiere de ordenadores conectados a Internet, auqneu no se necesita un ordenador para cada niño, incluso algunas actividades se realizan sin ordenador.
-
-Como recomendación a los docentes, asegúrate de probar los tutoriales en ordenadores o dispositivos de los estudiantes para asegurarse de que funcionan correctamente en los navegadores con sonido y vídeo.
+Como recomendación para los docentes, asegúrate de probar los tutoriales en ordenadores o dispositivos de los estudiantes para asegurarse de que funcionan correctamente en los navegadores con sonido y vídeo.
 
 
 
@@ -32,9 +16,23 @@ Como recomendación a los docentes, asegúrate de probar los tutoriales en orden
 
 
 
-## Code.ORG
+## CodeWeek EU
 
-Code.org es una organización sin fines de lucro, fundada por los hermanos Hadi y Ali Partovi, que tiene como objetivo incentivar a la gente, en especial a los estudiantes de colegios a aprender sobre las Ciencias Computacionales. Esta organización se encarga de dar lecciones gratis de programación, a través de su sitio web.
+La semana europea de la programación es una iniciativa que pretende acercar a todos, y especialmente a los más pequeños, la programación informática y la alfabetización digital de una manera divertida y atractiva. Aprender a programar nos ayuda a comprender nuestro mundo actual, altamente tecnificado y sometido a continuos cambios tecnológicos, comprender cómo funciona la tecnología que usamos y desarrollar habilidades y capacidades valiosas para la creación y la innovación
+
+![](img/codeweek.jpg "CodeWeek EU")
+
+Cualquiera puede organizar una *Hora del Código* en cualquier momento, pero el objetivo fundamental del proyecto es celebrar el evento durante Semana Europea de la programación, [CodeWeek](https://codeweek.eu/).
+
+
+
+<br />
+
+
+
+## Plataforma code.org
+
+[Code.org](https://code.org/) es una organización sin fines de lucro, fundada por los hermanos Hadi y Ali Partovi, que tiene como objetivo incentivar a la gente, en especial a los estudiantes de colegios a aprender sobre las Ciencias Computacionales. Esta organización se encarga de dar lecciones gratis de programación, a través de su sitio web.
 
 <div class="iframe">
   <iframe src="//www.youtube.com/embed/nKIu9yen5nc" allowfullscreen></iframe>
@@ -52,7 +50,7 @@ Esta herramienta es la preferida por muchos de los docentes interesados en intro
 
 ## La cuenta de profesor
 
-Code.org es una plataforma perfecta para utilizar en clase, pues incluye algunas funcionalidades que la hacen ideal para esta tarea. Entre ellas, podremos crear clases de alumnos con las que un profesor puede comprobar la evolución de sus alumnos, cuál es su evolución y cómo ha respondido ante los ejercicios.
+Como ya hemos comentado, esta plataforma es perfecta para utilizar en clase, pues incluye algunas funcionalidades que la hacen ideal para esta tarea. Entre ellas, podremos crear clases de alumnos con las que un profesor puede comprobar la evolución de sus alumnos, cuál es su evolución y cómo ha respondido ante los ejercicios.
 
 El registro es muy interesante para poder llevar una cuenta de los tutoriales que hayamos completado en cada momento. La plataforma irá guardando nuestros avances, permitiéndonos comprobar cómo vamos en este tutorial, o si hemos terminado aquel otro.
 
