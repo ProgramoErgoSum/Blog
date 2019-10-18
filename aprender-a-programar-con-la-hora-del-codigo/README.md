@@ -1,10 +1,10 @@
 ## La Hora del Código
 
-La Hora del Código es una iniciativa realizada a nivel mundial a mediados de diciembre cuyo objetivo consiste en introducir a la ciudadanía en las ciencias de la computación. Millones de docentes y estudiantes participantes han decidido ir más allá y muchos han decidido inscribirse en un curso entero como resultado de sta iniciativa.
+El proyecto [La Hora del Código](https://hourofcode.com/es) es una iniciativa realizada a nivel mundial a mediados de diciembre cuyo objetivo consiste en introducir a la ciudadanía en las ciencias de la computación. Millones de docentes y estudiantes participantes han decidido ir más allá y muchos han decidido inscribirse en un curso entero como resultado de sta iniciativa.
 
 ![](img/codeorg.jpg "La Hora del Código")
 
-Cualquiera puede organizar una *Hora del Código* en cualquier momento, pero el objetivo fundamental del proyecto es celebrar el evento durante Semana Europea de la programación, <a target="_blank" href="https://codeweek.eu/">CodeWeek</a>.
+Cualquiera puede organizar una *Hora del Código* en cualquier momento, pero el objetivo fundamental del proyecto es celebrar el evento durante Semana Europea de la programación, [CodeWeek](https://codeweek.eu/).
 
 La Hora del Código está organizada por Code.org, una organización pública sin fines de lucro destinada a promover la participación en escuelas e institutos con una especial atención en incrementar el número de mujeres y estudiantes de colectivos minoritarios que aprenden a programar.
 
@@ -16,7 +16,7 @@ La Hora del Código está organizada por Code.org, una organización pública si
 
 ## Actividades
 
-Dentro de *La Hora del Código* podemos acceder al apartado de <a target="_blank" href="https://hourofcode.com/es/learn">Actividades</a> donde encontraremos una gran cantidad de proyectos educativos destinados a la enseñanza de la programación en las escuelas e institutos.
+Dentro de *La Hora del Código* podemos acceder al apartado de [actividades](https://hourofcode.com/es/learn) donde encontraremos una gran cantidad de proyectos educativos destinados a la enseñanza de la programación en las escuelas e institutos.
 
 ![](img/actividades.jpg "Actividades en La Hora del Código")
 
